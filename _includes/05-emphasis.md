@@ -1,4 +1,4 @@
-## Lets discuss about markdown styles
+*Lets discuss about markdown styles*
 
 *Emojis: 
 :sparkles:
@@ -7,4 +7,10 @@
 :smile:
 :tada:
 
-#### Now i am well versed working with markdown options
+***Now i am well versed working with markdown options***
+
+**Learnt about:**
+
+~~Emoji
+
+
